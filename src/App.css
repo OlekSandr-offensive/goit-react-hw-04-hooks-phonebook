@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  margin-top: 50px;
+  width: 524px;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 20px 0;
+}
+
+h2 {
+  margin: 20px 0;
+}
